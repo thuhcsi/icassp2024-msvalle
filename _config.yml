@@ -1,4 +1,4 @@
-remote_theme: thuhcsi/slate
+remote_theme: thuhcsi/ls_slate
 title: Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts
 description: Submitted to ICASSP 2024.
 show_downloads: true
